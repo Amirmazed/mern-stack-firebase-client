@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Medical Care and Care",
+        "price": "300",
+        "description": "Responsible and diligent approach to each patient. The optimum ratio of price and quality. High quality health care and service....",
+        "img": "https://i.ibb.co/y4YNXQt/s1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Care and help at home",
+        "price": "100",
+        "description": "Responsible and diligent approach to each patient. The optimum ratio of price and quality. High quality health care and service....",
+        "img": "https://i.ibb.co/sgfyZMc/s2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Specialized care",
+        "price": "150",
+        "description": "High quality health care and service. Advanced medical technologies and innovative diagnosis and treatment methods....",
+        "img": "https://i.ibb.co/5TCdkp3/s3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Doctor’s visit to the house",
+        "price": "180",
+        "description": "High quality health care and service. Advanced medical technologies and innovative diagnosis and treatment methods....",
+        "img": "https://i.ibb.co/Y3rhsPK/s4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Diagnostic laboratory",
+        "price": "100",
+        "description": "High professional level. Doctors have extensive practical experience, are regularly training courses in educational centers of the world....",
+        "img": "https://i.ibb.co/PwPvjx3/s5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Personal psychologist",
+        "price": "300",
+        "description": "Your treating physician maintains all responsibility for your care and all treatment decisions will be made solely....",
+        "img": "https://i.ibb.co/g4tTnzP/s6.jpg"
+    }
+]
